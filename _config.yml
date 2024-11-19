@@ -1,0 +1,9 @@
+title: "Stealth Syndicate"
+description: "A party game of stealth, speed, and strategy"
+baseurl: "" # Si tu es sur GitHub Pages, mets "/nom-du-repo"
+url: "" # L'URL de ton site
+
+# Author info
+author:
+  name: "Stealth Syndicate"
+  email: "contact@stealthsyndicate.com"
