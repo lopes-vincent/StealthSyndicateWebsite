@@ -1,7 +1,7 @@
 title: "Stealth Syndicate"
 description: "A party game of stealth, speed, and strategy"
-baseurl: "" # Si tu es sur GitHub Pages, mets "/nom-du-repo"
-url: "" # L'URL de ton site
+domain: lopes-vincent.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://lopes-vincent.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 # Author info
 author:
