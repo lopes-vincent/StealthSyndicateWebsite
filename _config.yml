@@ -2,7 +2,7 @@ title: "Stealth Syndicate"
 description: "A party game of stealth, speed, and strategy"
 domain: lopes-vincent.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://lopes-vincent.github.io
-baseurl: /StealthSyndicateWebsite/
+baseurl: /StealthSyndicateWebsite
 
 # Author info
 author:
